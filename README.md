@@ -83,8 +83,8 @@ Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/R
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC&icon_color=999999" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SodiqovSardor&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC&icon_color=999999" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SodiqovSardor&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC" />
 </p>
 
 <p align="center">
@@ -107,4 +107,4 @@ Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/R
   <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E5E5E5" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below.</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos above.</i></p>
