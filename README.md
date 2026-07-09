@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sardor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Learning+React;Building+things+with+C%2B%2B%2C+JS+%26+Python;Systems+tinkerer+by+night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Learning+React;Building+things+with+C%2B%2B%2C+JS+%26+Python;Systems+tinkerer+by+night" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/github/followers/SodiqovSardor?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-38BDF8?style=flat-square" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=SodiqovSardor&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views">
+  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/github/followers/SodiqovSardor?label=Follow&style=flat-square&color=4D4D4D&labelColor=0D0D0D" alt="GitHub followers"></a>
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-4D4D4D?style=flat-square&labelColor=0D0D0D" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=SodiqovSardor&label=Profile%20Views&color=4D4D4D&style=flat-square" alt="Profile views">
 </p>
 
 ---
@@ -25,17 +25,17 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E5E5E5" />
   <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Lua-0D0D0D?style=for-the-badge&logo=lua&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E5E5E5" />
 </p>
 
 ---
@@ -83,12 +83,12 @@ Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/R
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SodiqovSardor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SodiqovSardor&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC&icon_color=999999" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SodiqovSardor&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SodiqovSardor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SodiqovSardor&hide_border=true&background=0D0D0D&stroke=4D4D4D&ring=CCCCCC&fire=E5E5E5&currStreakLabel=CCCCCC&sideLabels=999999&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=666666" alt="GitHub Streak" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/R
 ### Reach Me
 
 <p align="left">
-  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E5E5E5" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos above.</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below.</i></p>
