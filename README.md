@@ -88,7 +88,7 @@ Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/R
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SodiqovSardor&hide_border=true&background=0D0D0D&stroke=4D4D4D&ring=CCCCCC&fire=E5E5E5&currStreakLabel=CCCCCC&sideLabels=999999&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=666666" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SodiqovSardor&hide_border=true&background=0D0D0D&stroke=4D4D4D&ring=CCCCCC&fire=E5E5E5&currStreakLabel=CCCCCC&sideLabels=999999&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=666666" alt="GitHub Streak" />
 </p>
 
 ---
