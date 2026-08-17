@@ -68,18 +68,6 @@ I care about strong interfaces, thoughtful architecture, reliable behavior, and 
 
 
 
-<div align="center">
-
-
-
-<img src="./assets/profile-about.png" alt="Monochrome illustration of a developer working at a terminal" width="68%" />
-
-
-
-</div>
-
-
-
 ---
 
 
@@ -168,11 +156,11 @@ A git-aware shell concept focused on safer workflows, destructive-command guardr
 
 
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SodiqovSardor)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SodiqovSardor)
 
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/SardorSodiqov)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SardorSodiqov)
 
-[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://sodiqov-sardor-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://sodiqov-sardor-portfolio.vercel.app/)
 
 
 
