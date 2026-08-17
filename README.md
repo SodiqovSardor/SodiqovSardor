@@ -1,8 +1,4 @@
-<table>
-  
-<tr>
-  
-<td width="55%" valign="middle">
+<img align="right" width="42%" src="./assets/pasted_file_Mj6zDJ_image.png" alt="Monochrome developer working at a computer" />
 
 
 
@@ -23,24 +19,6 @@ I build clean interfaces, practical developer tools, and small systems that feel
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://sodiqov-sardor-portfolio.vercel.app/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SardorSodiqov)
-
-
-
-</td>
-
-<td width="45%" align="center">
-
-
-
-<img src="./assets/pasted_file_Mj6zDJ_image.png" alt="Monochrome developer working at a computer" width="100%" />
-
-
-
-</td>
-
-</tr>
-
-</table>
 
 
 
@@ -228,22 +206,9 @@ A git-aware shell concept focused on safer workflows, destructive-command guardr
 
 
 
-<div align="center">
-
-
-
 ### Thanks for stopping by.
 
 
 
 If you find something useful here, feel free to star it or say hello.
 
-
-
-</div>
-
-
-
-</tr>
-
-</table>
