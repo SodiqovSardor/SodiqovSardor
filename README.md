@@ -50,15 +50,7 @@ I care about strong interfaces, thoughtful architecture, reliable behavior, and 
 
 
 
-| Area | Focus |
-
-| --- | --- |
-
-| **Frontend craft** | React interfaces, responsive layouts, component systems, and polished details. |
-
-| **Systems tools** | Small terminal-first utilities with clear behavior and low overhead. |
-
-| **Developer experience** | Safer workflows, useful demos, better structure, and practical documentation. |
+![What I Build — focus areas](./assets/focus-areas.svg)
 
 
 
