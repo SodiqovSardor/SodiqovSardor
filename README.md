@@ -1,110 +1,259 @@
-<h1 align="center">Hi, I'm Sardor</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Learning+React;Building+things+with+C%2B%2B%2C+JS+%26+Python;Systems+tinkerer+by+night" alt="Typing SVG" />
-</p>
+  <img src="./assets/profile-banner.svg" alt="Sardor Sodiqov — frontend developer and systems tinkerer" width="100%" />
+  
+</div>
 
-<p align="center">
-  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/github/followers/SodiqovSardor?label=Follow&style=flat-square&color=4D4D4D&labelColor=0D0D0D" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-4D4D4D?style=flat-square&labelColor=0D0D0D" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=SodiqovSardor&label=Profile%20Views&color=4D4D4D&style=flat-square" alt="Profile views">
-</p>
 
----
 
-### About Me
+<br />
 
-- Frontend Developer, currently deep in **React**
-- Also comfortable dropping into **C++** and **Python** for systems-level projects
-- Based in Tashkent, Uzbekistan (UTC+05:00)
-- I like building tools that are small, fast, and dependency-free
-- Open to collaborating on interesting frontend or systems projects
 
----
 
-### Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E5E5E5" />
-  <br>
-  <img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/Lua-0D0D0D?style=for-the-badge&logo=lua&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E5E5E5" />
-</p>
+  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/github/followers/SodiqovSardor?label=Follow&style=for-the-badge&color=111827&labelColor=0b1020" alt="GitHub followers" /></a>
+  
+  <img src="https://komarev.com/ghpvc/?username=SodiqovSardor&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb&labelColor=0b1020" alt="Profile views" />
+  
+  <img src="https://img.shields.io/badge/Based_in-Tashkent%2C_Uzbekistan-2563eb?style=for-the-badge&labelColor=0b1020" alt="Based in Tashkent, Uzbekistan" />
+  
+</div>
 
----
 
-### Featured Projects
+
+<br />
+
+
+
+## About
+
+
+
+I’m **Sardor Sodiqov**, a frontend-focused developer who enjoys moving between polished interfaces and low-level tools. I’m currently deepening my **React** and **TypeScript** skills while building compact, useful systems projects in **C++**.
+
+
+
+I care about software that feels thoughtful: clear interfaces, fast feedback, small binaries, and dependable behavior. I’m based in **Tashkent, Uzbekistan (UTC+05:00)** and I’m open to collaborating on interesting frontend, developer-tooling, and systems projects.
+
+
+
+## What I’m building
+
+
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[snowflake](https://github.com/SodiqovSardor/snowflake)**
-
-Zero-dependency reverse-tunnel file sharing tool — a single 51 KB C++ binary that turns any terminal into a temporary file server. No setup, no config, just `chmod +x` and share.
-
-- PIN-protected sharing (`lock` mode)
-- Self-destructing ephemeral transfers (`once` mode)
-- Standalone or relay mode for NAT traversal
-- 36-test suite, path traversal protection
-- Live landing page: [snowflake-landing-page.vercel.app](https://snowflake-landing-page.vercel.app/)
-
-`C++17` `Shell` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**[oNe-fetch](https://github.com/SodiqovSardor/oNe-fetch)**
-
-A minimal, lightning-fast system information tool in the spirit of neofetch/fastfetch, written in C++17 with a Lua-based config system.
-
-- 38+ curated distro ASCII arts with auto-detection
-- Fully customizable via `config.lua`
-- Retro "slow mode" typewriter animation
-- CPU/GPU name shortening, custom color themes
-
-`C++17` `Lua` `Python`
-
-</td>
-</tr>
+  
+  <tr>
+    
+    <td width="50%" valign="top">
+    
+      <h3>Frontend craft</h3>
+      
+      <p>React interfaces, component architecture, responsive layouts, and the fundamentals that make products feel effortless to use.</p>
+      
+      <p><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>CSS</code></p>
+      
+    </td>
+    
+    <td width="50%" valign="top">
+    
+      <h3>Useful systems tools</h3>
+      
+      <p>Small, focused utilities that are fast, understandable, and practical from the terminal.</p>
+      
+      <p><code>C++17</code> <code>Lua</code> <code>Python</code> <code>Shell</code></p>
+      
+    </td>
+    
+  </tr>
+  
 </table>
 
-Also building **Landing**, **daryo-uz**, and **React-org** — active frontend/React projects in progress.
 
----
 
-### GitHub Stats
+## Selected work
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC&icon_color=999999" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SodiqovSardor&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=CCCCCC" />
+
+
+<table>
+  
+  <tr>
+    
+    <td width="50%" valign="top">
+    
+      <h3><a href="https://github.com/SodiqovSardor/snowflake">snowflake</a></h3>
+      
+      <p>Zero-dependency reverse-tunnel file sharing from the terminal. A single 51 KB C++ binary with PIN protection, ephemeral transfers, and standalone or relay modes.</p>
+      
+      <p><a href="https://snowflake-landing-page.vercel.app/">Live landing page →</a></p>
+      
+      <p><code>C++17</code> <code>Shell</code> <code>JavaScript</code></p>
+      
+    </td>
+    
+    <td width="50%" valign="top">
+    
+      <h3><a href="https://github.com/SodiqovSardor/oNe-fetch">oNe-fetch</a></h3>
+      
+      <p>A minimal system information tool inspired by neofetch and fastfetch, with curated distro artwork and a flexible Lua configuration system.</p>
+      
+      <p><code>C++17</code> <code>Lua</code> <code>Python</code></p>
+      
+    </td>
+    
+  </tr>
+  
+  <tr>
+    
+    <td width="50%" valign="top">
+    
+      <h3><a href="https://github.com/SodiqovSardor/WhiteRose">WhiteRose</a></h3>
+      
+      <p>A git-aware shell concept focused on safer workflows: destructive-command guardrails, auto-upstream behavior, force-push protection, and recovery-friendly ergonomics.</p>
+      
+      <p><code>C++</code> <code>Git</code> <code>Shell</code></p>
+      
+    </td>
+    
+    <td width="50%" valign="top">
+    
+      <h3>Frontend experiments</h3>
+      
+      <p>Exploring React through focused projects such as <a href="https://github.com/SodiqovSardor/React">React</a>, <a href="https://github.com/SodiqovSardor/DummyShop">DummyShop</a>, <a href="https://github.com/SodiqovSardor/lider-stone">lider-stone</a>, and <a href="https://github.com/SodiqovSardor/landing">landing</a>.</p>
+      
+      <p><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>CSS</code></p>
+      
+    </td>
+    
+  </tr>
+  
+</table>
+
+
+
+## Toolkit
+
+
+
+<p>
+  
+  <img src="https://img.shields.io/badge/React-0b1020?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  
+  <img src="https://img.shields.io/badge/TypeScript-0b1020?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  
+  <img src="https://img.shields.io/badge/C%2B%2B-0b1020?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  
+  <img src="https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  
+  <img src="https://img.shields.io/badge/Lua-0b1020?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua" />
+  
+  <img src="https://img.shields.io/badge/Node.js-0b1020?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+  
+  <img src="https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SodiqovSardor&hide_border=true&background=0D0D0D&stroke=4D4D4D&ring=CCCCCC&fire=E5E5E5&currStreakLabel=CCCCCC&sideLabels=999999&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=666666" alt="GitHub Streak" />
+
+
+## Currently
+
+
+
+- Building stronger instincts around **React**, hooks, state management, and component architecture.
+- 
+- Shipping small, focused C++ tools that solve real terminal problems.
+- 
+- Improving project documentation, demos, and the details that make software easier to adopt.
+- 
+- Always happy to pair, review a pull request, or talk through a systems idea.
+- 
+
+
+## Let’s connect
+
+
+
+<p>
+  
+  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  
 </p>
 
----
 
-### Currently
 
-- Sharpening my **React** fundamentals — hooks, state management, component architecture
-- Shipping small, focused C++ tools on the side (`snowflake`, `oNe-fetch`)
-- Always down to pair, review PRs, or talk system design
+<details>
+  
+  <summary><strong>A small note</strong>strong></summary>summary>
+  
+  <br />
+  
+  The best projects are often the ones that make a complicated task feel simple. That’s the kin</strong></summary>
 
----
+</details>
 
-### Reach Me
 
-<p align="left">
-  <a href="https://github.com/SodiqovSardor"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E5E5E5" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos above.</i></p>
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+  </tr>
+
+</table>
+
+
+
