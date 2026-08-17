@@ -20,11 +20,7 @@ I build clean interfaces, practical developer tools, and small systems that feel
 
 [![GitHub](https://img.shields.io/badge/GitHub-SodiqovSardor-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SodiqovSardor)
 
-
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://sodiqov-sardor-portfolio.vercel.app/)
-
-
 
 [![Telegram](https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SardorSodiqov)
 
@@ -200,9 +196,7 @@ A git-aware shell concept focused on safer workflows, destructive-command guardr
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa&count_private=true" alt="GitHub statistics" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SodiqovSardor&hide_border=true&background=0d1117&stroke=1f2937&ring=60a5fa&fire=60a5fa&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
+<img src="./assets/github-stats.svg" alt="GitHub statistics: 15 public repositories, 9 followers, 1 following, and 0 stars received" width="96%" />
 
 
 
