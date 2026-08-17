@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Sardor Sodiqov GitHub statistics</title>
+  <desc id="desc">15 public repositories, 9 followers, 1 following, and 0 stars received.</desc>
+  <rect width="900" height="220" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="218" rx="15" fill="none" stroke="#30363d"/>
+  <text x="36" y="42" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GitHub Stats</text>
+  <text x="36" y="67" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13">SodiqovSardor · public profile snapshot</text>
+  <line x1="36" y1="86" x2="864" y2="86" stroke="#21262d"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(36,108)">
+      <rect width="190" height="76" rx="10" fill="#161b22" stroke="#21262d"/>
+      <text x="20" y="27" fill="#8b949e" font-size="12">PUBLIC REPOSITORIES</text>
+      <text x="20" y="59" fill="#58a6ff" font-size="28" font-weight="700">15</text>
+    </g>
+    <g transform="translate(246,108)">
+      <rect width="190" height="76" rx="10" fill="#161b22" stroke="#21262d"/>
+      <text x="20" y="27" fill="#8b949e" font-size="12">FOLLOWERS</text>
+      <text x="20" y="59" fill="#58a6ff" font-size="28" font-weight="700">9</text>
+    </g>
+    <g transform="translate(456,108)">
+      <rect width="190" height="76" rx="10" fill="#161b22" stroke="#21262d"/>
+      <text x="20" y="27" fill="#8b949e" font-size="12">FOLLOWING</text>
+      <text x="20" y="59" fill="#58a6ff" font-size="28" font-weight="700">1</text>
+    </g>
+    <g transform="translate(666,108)">
+      <rect width="198" height="76" rx="10" fill="#161b22" stroke="#21262d"/>
+      <text x="20" y="27" fill="#8b949e" font-size="12">STARS RECEIVED</text>
+      <text x="20" y="59" fill="#58a6ff" font-size="28" font-weight="700">0</text>
+    </g>
+  </g>
+</svg>
