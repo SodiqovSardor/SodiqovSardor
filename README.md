@@ -46,8 +46,7 @@ I care about strong interfaces, thoughtful architecture, reliable behavior, and 
 ## What I Build
 
 
-
-![What I Build — focus areas](./assets/focus-areas.svg)
+# SOMETHING
 
 
 
