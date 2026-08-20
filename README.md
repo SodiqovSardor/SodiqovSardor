@@ -24,10 +24,6 @@
 Zero-dependency reverse-tunnel file-sharing from the terminal. PIN-protected, one-time transfers, standalone or relay modes.
 → https://github.com/SodiqovSardor/snowflake
 
-**oNe-fetch** &nbsp;·&nbsp; `C++17` `Lua` `Python`
-Minimal system-information tool with distro artwork and Lua configuration.
-→ https://github.com/SodiqovSardor/oNe-fetch
-
 **WhiteRose** &nbsp;·&nbsp; `C++` `Git` `Shell`
 Git-aware shell concept focused on safer workflows and destructive-command guardrails.
 → https://github.com/SodiqovSardor/WhiteRose
@@ -40,12 +36,6 @@ Web terminal — SSH into a host and attach a tmux session from the browser.
 
 ---
 
-### ◦ Now
-
-Exploring systems programming and developer tooling in C++.
-
----
-
 <div align="center">
 
 <picture>
@@ -53,9 +43,5 @@ Exploring systems programming and developer tooling in C++.
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SodiqovSardor&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111">
   <img alt="GitHub Stats" />
 </picture>
-
-<br><br>
-
-*minimal by design*
 
 </div>
