@@ -1,6 +1,3 @@
-<img align="right" width="42%" src="./assets/pasted_file_Mj6zDJ_image.png" alt="Monochrome developer working at a computer" />
-
-
 
 # Hi, I'm Sardor Sodiqov
 
