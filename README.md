@@ -16,4 +16,6 @@ I build clean interfaces, practical developer tools, and small systems that feel
 
 **[WhiteRose](https://github.com/SodiqovSardor/WhiteRose)** — Git-aware shell concept focused on safer workflows and destructive-command guardrails. `C++` `Git` `Shell`
 
+**[Yoursh](https://github.com/SodiqovSardor/yoursh)** — Web terminal: SSH into a host and attach a tmux session, from the browser. `Vue` `python` `JavaScript`
+
 **Frontend Experiments** — [React](https://github.com/SodiqovSardor/React) · [DummyShop](https://github.com/SodiqovSardor/DummyShop) · [lider-stone](https://github.com/SodiqovSardor/lider-stone) · [landing](https://github.com/SodiqovSardor/landing)
